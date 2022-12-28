@@ -6,3 +6,4 @@ Sogang University
 
 2022 Winter Semester
 
+Instructor: Prof. Yong Duek Seo
