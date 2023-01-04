@@ -1,8 +1,8 @@
 # Introduction-to-Visual-Media-Programming
 
-Sogang University
-
 MAS2011-01
+
+Sogang University
 
 2022 Winter Semester
 
