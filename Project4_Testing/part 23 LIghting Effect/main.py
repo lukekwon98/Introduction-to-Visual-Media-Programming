@@ -254,10 +254,10 @@ class Game:
             if hit.type == 'github':
                 hit.kill()
                 self.effects_sounds['github'].play()
-                a1 = choice(self.mobList)
+                a1 = choice(self.mobList[:])
                 a1.kill()
                 self.mobList.remove(a1)
-                a2 = choice(self.mobList)
+                a2 = choice(self.mobList[:])
                 a2.kill()
                 self.mobList.remove(a2)
                 self.github += 1
