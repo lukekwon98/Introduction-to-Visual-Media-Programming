@@ -206,12 +206,12 @@ class Game:
         self.start = True
         self.prof = True
         self.startTime = pg.time.get_ticks()
-        self.nightDelay = 9000
+        self.nightDelay = 9500
         self.FA = True
         self.OOT = False
         #self.eclipse = False
         #self.eclipseTime = pg.time.get_ticks()
-        #self.eclipseDelay = 9000
+        #self.eclipseDelay = 9500
 
     def run(self):
         # game loop - set self.playing = False to end the game
