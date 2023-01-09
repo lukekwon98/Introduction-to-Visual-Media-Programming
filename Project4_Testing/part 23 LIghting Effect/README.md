@@ -1,6 +1,6 @@
 ## Project4
 ### Title: MAS 2011
-### Author: 20181200 
+### Author: 20181200 권혁채
 
 ### Story: 
 You (The Player) are a student who imprudently
