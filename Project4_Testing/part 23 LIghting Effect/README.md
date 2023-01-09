@@ -28,3 +28,5 @@ Specific Info in Project4_Report_20181200.pdf
 ### Attributions: https://kidscancode.org/, https://www.youtube.com/@Kidscancode, https://www.youtube.com/@zacharystolter5502, "topdown shooter" art by Kenny.nl, Weapon pickup by: Guns by Gary <http://fossilrecords.net/> licensed under CC-BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, "espionage.ogg" by http://opengameart.org/users/haeldb
 
 Try moving directory of Kenney Topdown pack.tmx to suggested directory in error message if .py file doesn't run
+
+Kenney Topdown pack.tmx is in https://github.com/lukekwon98/Introduction-to-Visual-Media-Programming 
