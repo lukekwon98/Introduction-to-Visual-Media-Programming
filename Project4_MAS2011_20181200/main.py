@@ -53,7 +53,7 @@ class Game:
         self.hud_font = path.join(img_folder, 'Impacted2.0.ttf')
         self.dim_screen = pg.Surface(self.screen.get_size()).convert_alpha()
         self.dim_screen.fill((0, 0, 0, 180))
-        self.sogang_img = pg.image.load(path.join(img_folder, '서강대학교.png')).convert_alpha()
+        self.sogang_img = pg.image.load(path.join(img_folder, 'sogang.png')).convert_alpha()
         self.sogang_img = pg.transform.scale(self.sogang_img, (420, 420))
         self.player_img = pg.image.load(path.join(img_folder, PLAYER_IMG)).convert_alpha()
         self.prof_img = pg.image.load(path.join(img_folder, 'Prof.png')).convert_alpha()
