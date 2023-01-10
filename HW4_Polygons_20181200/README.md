@@ -1,4 +1,4 @@
-## HW4: Polygons
+## HW4: Polygons & Stars
 
 Polygons made using a class
 
