@@ -4,4 +4,4 @@ Same image and sound effects from HW3
 
 Computer playing algorithm changed to Minimax
 
-You can now never win
+Now you can never win
