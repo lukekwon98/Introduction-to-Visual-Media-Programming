@@ -29,8 +29,8 @@ Ending Conditions
 
 ### Attributions: https://kidscancode.org/, https://www.youtube.com/@Kidscancode, https://www.youtube.com/@zacharystolter5502, "topdown shooter" art by Kenny.nl, Weapon pickup by: Guns by Gary <http://fossilrecords.net/> licensed under CC-BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, "espionage.ogg" by http://opengameart.org/users/haeldb
 
-Try moving Kenney Topdown pack.tmx to suggested directory in error message if .py file doesn't run
+Try moving Kenney Topdown pack.tsx to suggested directory in error message if .py file doesn't run
 
 #### Updates
 
-23.01.09: Source directory for Kenney Topdown pack.tmx in level1.tmx has been updated. Game should run if Kenney Topdown pack.tmx is in the same directory as main.py
+23.01.09: Source directory for Kenney Topdown pack.tsx in level1.tmx has been updated. Game should run if Kenney Topdown pack.tsx is in the same directory as main.py
