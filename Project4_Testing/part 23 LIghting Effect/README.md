@@ -31,6 +31,6 @@ Ending Conditions
 
 Try moving Kenney Topdown pack.tmx to suggested directory in error message if .py file doesn't run
 
-##### Updates
+#### Updates
 
 23.01.09: Source directory for Kenney Topdown pack.tmx in level1.tmx has been updated. Game should run if Kenney Topdown pack.tmx is in the same directory as main.py
