@@ -3,3 +3,5 @@
 Robot arm created in pygame using rectangles
 
 Control Keys: Arrow Keys & WASD
+
+Turn on sound
