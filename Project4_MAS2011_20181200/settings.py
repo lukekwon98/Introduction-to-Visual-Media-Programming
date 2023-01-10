@@ -66,7 +66,7 @@ WEAPONS['machine gun'] = {'bullet_speed': 600,
                       'rate': 50,
                       'kickback': 60,
                       'spread': 8,
-                      'damage': 5,
+                      'damage': 5.5,
                       'bullet_size': 'lg',
                       'bullet_count': 1}
 
