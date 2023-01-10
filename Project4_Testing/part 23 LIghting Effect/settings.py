@@ -27,7 +27,7 @@ HEIGHT = 900#768  # 16 * 48 or 32 * 24 or 64 * 12
 # HEIGHT = pg.display.get_desktop_sizes()[1]
 
 FPS = 60
-TITLE = "Tilemap Demo"
+TITLE = "MAS 2011"
 BGCOLOR = BROWN
 
 TILESIZE = 128
